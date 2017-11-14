@@ -7,4 +7,5 @@ Testando o Angular 4
 9.15. Binding de eventos customizados com @Output e EventEmitter
 9.16. Adicionando estilos CSS em componentes
 9.17. Estilos CSS dinâmicos com ngStyle
+9.18. Classes CSS dinâmicas com ngClass
 
